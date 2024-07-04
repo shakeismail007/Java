@@ -10,7 +10,7 @@ public class StringBufferEx{
         System.out.println(br.length());
         System.out.println(br.replace(0,4," Ismail"));
         System.out.println(br.insert(0,"Sulthan"));
-//        System.out.println(br.reverse());
+        System.out.println(br.reverse());
         System.out.println(br.delete(0,7));
         System.out.println(br.charAt(8));
         br.setLength(0);
